@@ -1,17 +1,57 @@
----
-
 # Awesome Omniverse
 
 A curated list of awesome resources, tools, tutorials, and projects related to NVIDIA Omniverse. NVIDIA Omniverse is a powerful platform for 3D design collaboration and simulation, enabling creators, designers, and engineers to work together in real-time on a shared virtual world. This list aims to provide a comprehensive overview of the Omniverse ecosystem, from foundational concepts to advanced applications.
 
 ## Contents
+- [**Projects & Showcases**](#projects--showcases)
+- [**Tools & Extensions**](#tools--extensions)
+- [**Communities & Forums**](#communities--forums)
+- [**Tutorials & Courses**](#tutorials--courses)
+- [**Articles & Blogs**](#articles--blogs)
+- [**Official Resources**](#official-resources)
 
-- **Official Resources** - Links to NVIDIA's official documentation, blog posts, and announcements about Omniverse.
-- **Tutorials & Courses** - Step-by-step guides and online courses to learn Omniverse from beginners to advanced users.
-- **Tools & Extensions** - A collection of plugins, extensions, and utilities developed by the community to enhance Omniverse's capabilities.
-- **Projects & Showcases** - Showcase projects, case studies, and real-world applications of Omniverse in various industries.
-- **Communities & Forums** - Active online communities, forums, and discussion boards where you can ask questions, share knowledge, and connect with other Omniverse users.
-- **Articles & Blogs** - Curated articles, blog posts, and news items discussing the latest developments, trends, and insights into Omniverse.
+## Projects & Showcases
+
+* [OmniGibson](https://behavior.stanford.edu/omnigibson) - OmniGibson: a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse engine. [[github](https://github.com/StanfordVL/OmniGibson) ![OmniGibson](https://img.shields.io/github/stars/StanfordVL/OmniGibson.svg?style=flat&label=Star&maxAge=86400)]
+
+* [Behavior Vision Suite](https://behavior-vision-suite.github.io) - Customizable Dataset Generation via Simulation. [[github](https://github.com/behavior-vision-suite/behavior-vision-suite.github.io) ![OmniGibson](https://img.shields.io/github/stars/behavior-vision-suite/behavior-vision-suite.github.io.svg?style=flat&label=Star&maxAge=86400)]
+
+* [awesome-openusd](https://github.com/matiascodesal/awesome-openusd) - A curated list of awesome Universal Scene Description (OpenUSD) resources and projects.
+
+* [awesome-isaac-sim](https://github.com/shaoxiang/awesome-isaac-sim) - A curated collection of essential resources, tutorials, and projects for NVIDIA Isaac Sim, the powerful platform for designing, simulating, testing, and training AI-driven robots and autonomous machines with GPU-accelerated multi-physics simulations.
+
+* [awesome-isaac-gym](https://github.com/wangcongrobot/awesome-isaac-gym) - A curated list of awesome NVIDIA Issac Gym frameworks, papers, software, and resources.
+
+* [awesome-isaac-sim](https://github.com/sjtuyinjie/awesome-isaac-sim) - Collect some related resources of NVIDIA Isaac Sim.
+
+## Tools & Extensions
+
+* [nvidia-omniverse-modular-solution-with-aws-cdk](https://github.com/aws-samples/nvidia-omniverse-modular-solution-with-aws-cdk) - Modular AWS CDK solution to start with NVIDIA Omniverse on AWS.
+
+## Tutorials & Courses
+
+* [USD-Tutorials-And-Examples](https://github.com/NVIDIA-Omniverse/USD-Tutorials-And-Examples) - This project showcases educational material for Pixar's Universal Scene Description.
+
+* [OpenUSD-Code-Samples](https://github.com/NVIDIA-Omniverse/OpenUSD-Code-Samples) - Common code snippets for OpenUSD.
+
+* [web-viewer-sample](https://github.com/NVIDIA-Omniverse/web-viewer-sample) - This sample demonstrates how a front-end client can present a streamed Omniverse Kit application and how to send messages between the two apps.
+
+* [synthetic-data-examples](https://github.com/NVIDIA-Omniverse/synthetic-data-examples) - Synthetic Data Generation Examples.
+
+* [USDBook](https://github.com/Remedy-Entertainment/USDBook) - Book of USD source repository.
+
+* [ToyClock](https://github.com/DigitalBotLab/ToyClock) - How to make a ToyClock.
+
+## Articles & Blogs
+Curated articles, blog posts, and news items discussing the latest developments, trends, and insights into Omniverse.
+
+## Official Resources
+
+
+## Communities & Forums
+Active online communities, forums, and discussion boards where you can ask questions, share knowledge, and connect with other Omniverse users.
+
+* Discord: https://discord.gg/wtXUhcDh
 
 ## Why Awesome Omniverse?
 
@@ -19,10 +59,5 @@ As the Omniverse ecosystem continues to grow, so does the need for a centralized
 
 ## Contributing
 
-Contributions are welcome! If you have a resource, tool, tutorial, or project that you think belongs on this list, feel free to open a pull request. Please ensure that all additions follow the guidelines outlined in the [contribution guidelines](CONTRIBUTING.md).
-
+Contributions are welcome! If you have a resource, tool, tutorial, or project that you think belongs on this list, feel free to open a pull request. 
 Together, let's build the ultimate resource for the Omniverse community!
-
----
-
-This description provides an overview of the project's purpose, content, and how users can contribute. You can adjust and expand upon it as needed to fit your specific vision and goals for the project.
